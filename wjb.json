@@ -1,0 +1,56 @@
+{
+    "urls": [
+        {
+      "url": "http://ok213.top/tv",
+      "name": "ok线路"
+       },    
+        {
+            "url": "https://10352.kstore.vip/tv",
+            "name": "ok备用线路"
+        }, 
+        {            
+            "url": "https://tvbox.catvod.com/FongMi.json",            
+            "name": "真心"        
+        },     
+        {
+            "url": "https://www.饭太硬.com/tv",
+            "name": "饭太硬"
+        },    
+        {
+            "url": "http://肥猫.com",
+            "name": "肥猫"
+        },   
+        {
+            "url": "https://欧歌.v.nxog.top/m",
+            "name": "讴歌"
+        },  
+         {
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json",
+            "name": "南风"
+         },
+        {
+            "url": "https://9280.kstore.vip/newwex.json",
+            "name": "王二小"
+        },    
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "巧计"
+        },   
+               {
+            "url": "https://8815.kstore.vip/tvbox/Ace",
+            "name": "林中小屋"
+        },
+       {
+      "url": "https://9877.kstore.space/AnotherD/api.json",
+      "name": "潇洒"
+      },
+     {
+      "url": "https://ghfast.top/https://github.com/a736240087/tvbox/blob/main/1.json",
+      "name": "a736240087"
+      },
+        {
+            "url": "https://gh-proxy.com/https://github.com/alantang1977/X/blob/main/X.json",
+            "name": "alantang1977X"
+        }
+     ]   
+}
