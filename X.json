@@ -1,4 +1,7 @@
- {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_AweSomeGuard","searchable":0,"filterable":0,"changeable":0,"ext":{"sp": "Push"},"timeout":25}
+{
+"spider":"./jar/OK.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60","notice": "🧨马到成功！万事胜意！财源广进🧨🎉！", 
+"wallpaper":"https://imgs.catvod.com/","logo":"https://cnb.cool/junchao.tang/jtv/-/git/raw/main/Pictures/jimeng.gif",
+{"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_AweSomeGuard","searchable":0,"filterable":0,"changeable":0,"ext":{"sp": "Push"},"timeout":25}
   ],
 
   "parses":[
