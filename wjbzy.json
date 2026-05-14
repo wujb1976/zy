@@ -9,12 +9,12 @@
             "name": "cluntop"
         }, 
         {    
-      "url": "http://ok213.top/tv",
-      "name": "ok线路"
+      "url": "https://gh-proxy.com/https://github.com/2hacc/TVBox/blob/main/oktv.json",
+      "name": "2hacc-oktv"
        },    
         {
-            "url": "https://10352.kstore.vip/tv",
-            "name": "ok备用线路"
+            "url": "https://gh-proxy.com/https://github.com/2hacc/TVBox/blob/main/h/h.json",
+            "name": "2hacc-h"
         }, 
         {            
             "url": "https://tvbox.catvod.com/FongMi.json",            
@@ -65,6 +65,13 @@
             "name": "N3RD"
         },    
         {
+            "url": "https://gh-proxy.com/https://github.com/n3rddd/N3RD/blob/master/JN/lemj.json",
+            "name": "N3RD-lemj"
+        },    
+        {"url": "https://gh-proxy.com/https://github.com/n3rddd/N3RD/blob/master/JN/lempg2.json",
+            "name": "N3RD-lempg2"
+        },    
+        {
              "url": "https://gh-proxy.com/https://github.com/adminouyang/231006/blob/main/tvbox/影视线路.txt",
             "name": "231006影视线路"
         },    
@@ -110,6 +117,10 @@
       "name": "a736240087"
       },
         {
+            "url": "https://gh-proxy.com/https://github.com/wujb1976//a736240087/blob/main/1.json",
+      "name": "wjba736240087"
+             },
+        {
        "url": "https://gh-proxy.com/https://github.com/wujb1976/files/blob/master/n-2.json",
        "name": "n-2"
       },
@@ -120,6 +131,10 @@
         {
             "url": "https://gh-proxy.com/https://github.com/tushen6/Tomorrow/blob/master/lmw.json",
             "name": "Tomorrow"
+        },    
+        {
+             "url": "https://gh-proxy.com/https://github.com/alantang1977/pg/blob/main/jsm.json",
+            "name": "alantang1977pg"
         },    
         {
             "url": "https://gh-proxy.com/https://github.com/alantang1977/X/blob/main/X.json",
