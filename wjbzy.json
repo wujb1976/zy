@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-         "url": "https://gh-proxy.com/https://github.com/fafa002/yf2025/blob/main/yifatvbox3.josn",
+         "url": "https://gh-proxy.org/https://github.com/fafa002/yf2025/blob/main/yifatvbox3.josn",
             "name": "fafa002"
         }, 
         {    
-            "url": "https://gh-proxy.com/https://github.com/cluntop/tvbox/blob/main/box.json",
+            "url": "https://gh-proxy.org/https://github.com/cluntop/tvbox/blob/main/box.json",
             "name": "cluntop"
         }, 
         {    
@@ -13,8 +13,8 @@
       "name": "无意云"
        },    
         {
-            "url": "https://gh-proxy.com/https://github.com/2hacc/TVBox/blob/main/h/h.json",
-            "name": "2hacc-h"
+            "url": "https://gh-proxy.org/https://github.com/niuber/niuber/raw/refs/heads/main/tvbox/TVBoxOSC/tvbox/api.json",
+            "name": "潇洒单仓Pro"
         }, 
         {            
             "url": "https://tvbox.catvod.com/FongMi.json",            
@@ -80,8 +80,8 @@
             "name": "yoursmile66"
         },    
         {
-            "url": "  ",
-            "name": "  "
+            "url": "https://clun.top/box.json",
+            "name": "clun"
         },    
         {
 
@@ -125,8 +125,8 @@
        "name": "n-2"
       },
         {
-             "url": "https://gh-proxy.com/https://github.com/cyao2q/files/blob/master/n.json",
-       "name": "n"
+             "url": "https://gh-proxy.com/https://github.com/50430870/TVBox/blob/main/pj.json",
+       "name": "50430870PJ"
       },
         {
             "url": "https://gh-proxy.com/https://github.com/tushen6/Tomorrow/blob/master/lmw.json",
@@ -139,6 +139,26 @@
         {
             "url": "https://gh-proxy.com/https://github.com/alantang1977/X/blob/main/X.json",
             "name": "alantang1977X"
+        },    
+        {
+            "url": "https://gh-proxy.com/https://github.com/ne7359/tvurl/blob/main/dianshi.json",
+            "name": "ne7359dianshi"
+            },    
+        {
+            "url": "https://gh-proxy.com/https://github.com/ne7359/tvurl/blob/main/jsm.json",
+            "name": "ne7359jsm"
+             },    
+        {
+            "url": "https://gh-proxy.com/https://github.com/ne7359/tvurl/blob/main/fty.json",
+            "name": "ne7359fty"
+             },    
+        {
+            "url": "https://gh-proxy.com/https://github.com/zheng197600/tvbox/blob/main/0821.json",
+            "name": "zheng1976000821"
+             },    
+        {
+            "url": "https://gh-proxy.com/https://github.com/zheng197600/tvbox/blob/main/0820.json",
+            "name": "zheng1976000820"
         }
      ]   
 }
