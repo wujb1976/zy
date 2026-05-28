@@ -9,12 +9,25 @@
             "name": "vcloudc"
         }, 
         {   
-            "url": "http://hello.肥猫.com",
-            "name": "肥猫线路2026"
+            "url": "https://gh-proxy.com/https://github.com/niuber/niuber/blob/main/niuber.json",
+            "name": "niuber"
         }, 
         {  
             "url": "http://影视仓接口.top",
             "name": "快乐接口"
+        }, 
+        {  
+             "url": "https://gh-proxy.com/https://github.com/Basic-yao/TVBox/blob/main/yao.json",
+            "name": "Basic-yao"
+        }, 
+        {  
+            
+             "url": "https://gh-proxy.com/https://github.com/alantang1977/X/blob/main/config.json",
+            "name": "alantang1977config"
+        }, 
+        {  
+             "url": "https://gh-proxy.com/https://github.com/alantang1977/X/blob/main/dummy.json",
+            "name": "alantang1977dummy"
         }, 
         {  
             "url": "https://gh-proxy.com/https://github.com/hd9211/Tvbox1/blob/main/zy.json",
