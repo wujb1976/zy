@@ -202,6 +202,26 @@
             "name": "zheng1976000821"
              },    
         {
+             "url": "https://gh-proxy.com/https://github.com/ansun1714/tvbox/blob/main/my-private-api.json",
+            "name": "ansun1714"
+             },    
+        { 
+            "url": "https://gh-proxy.com/https://github.com/shichuanenhui/TvBox/blob/main/api.json",
+            "name": "shichuanenhui"
+             },    
+        { 
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wzh15802/tvbox/main/tv.json",
+            "name": "wzh15802"
+             },    
+        { 
+            "url": "https://gh-proxy.com/https://github.com/4TVBox/TVBox/blob/main/config.json",
+            "name": "4TVBox"
+             },    
+        {
+             "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "gxnas私人小屋"
+             },    
+        {
             "url": "https://gh-proxy.com/https://github.com/zheng197600/tvbox/blob/main/0820.json",
             "name": "zheng1976000820"
         }
