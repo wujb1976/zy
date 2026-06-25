@@ -13,8 +13,8 @@
             "name": "vcloudc"
         }, 
         {   
-            "url": "",
-            "name": ""
+            "url": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jsm.json",
+            "name": "QIST-JSM"
         }, 
         {  
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.png",
@@ -82,12 +82,12 @@
             "name": "盒子迷"
         },    
         {
-            "url": "",
-            "name": ""
+            "url": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/fty.json",
+            "name": "QIST-FTY"
         },   
         {
-            "url": "",
-            "name": ""
+            "url": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/dianshi.json",
+            "name": "QIST-DIANSHI"
         },  
          {
             "url": "https://gh-proxy.com/https://github.com/cyao2q/files/blob/master/xs.json",
