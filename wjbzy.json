@@ -21,6 +21,79 @@
             "name": "leevi0709config"
         }, 
         {  
+             "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/FM/api.json",
+            "name": "FM"
+        }, 
+        {  
+            "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/FTY/api.json",
+            "name": "FTY"
+        }, 
+        {  
+             "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/JD/api.json",
+            "name": "JD"
+        }, 
+        {   
+            "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/MYE/api.json",
+            "name": "MYE"
+        }, 
+        {  
+            "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/NF/api.json",
+            "name": "NF"
+        }, 
+        {  
+            "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/PG/api.json",
+            "name": "PG"
+        }, 
+        {  
+             "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/PG/jsm.json",
+            "name": "PG-JSM"
+        }, 
+        {  
+            
+             "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/SEPD/api.json",
+            "name": "SEPD"
+        }, 
+        {  
+             "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/XHB/api.json",
+            "name": "XHB"
+        }, 
+        {  
+            "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/XM/api.json",
+            "name": "XM"
+        }, 
+        {  
+         "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/XQYY/api.json",
+            "name": "XQYY"
+        }, 
+        {    
+            "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/XS/api.json",
+            "name": "XS"
+        }, 
+        {    
+            "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi2/blob/main/aowu/api.json",
+            "name": "AOWU"
+        }, 
+        {    
+      "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi2/blob/main/huban/api.json",
+      "name": "HUBAN"
+       },    
+        {
+             "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi2/blob/main/newwex/api.json",
+      "name": "NEWWEX"
+       },    
+         {
+                     "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi2/blob/main/py/api.json",
+      "name": "PY"
+       },    
+        {
+            "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi2/blob/main/vox/api.json",
+            "name": "VOX"
+        }, 
+        {            
+            "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi2/blob/main/xiaosa/api.json",            
+            "name": "XIAOSA"  
+            },    
+        {
             "url": "http://影视仓接口.top",
             "name": "快乐接口"
         }, 
