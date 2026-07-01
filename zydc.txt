@@ -19,7 +19,15 @@
 {"sourceName":"💛拾光多仓🍭","sourceUrl":"http://xmbjm.fh4u.org/dc.txt"},
 {"sourceName":"💛奇奇接口🍭","sourceUrl":"http://z.qiqiv.cn/123 "},
 {"sourceName":"💛Dong-learn9🍭","sourceUrl":"https://gh-proxy.com/https://github.com/Dong-learn9/TVBox-zyjk/blob/main/tvbox.json "},
-{"sourceName":"💛liu673🍭","sourceUrl":"https://gh-proxy.com/https://github.com/liu673cn/box/blob/main/dm.txt "},
+{"sourceName":"🍈自用仓库","sourceUrl":"http://liucn.cc/box/dc.txt "},
+{"sourceName":"🍎欧歌仓库","sourceUrl":"https://xn--9ff9-rp5imh.v.nxog.top/nxog/oua.php?b=9f欧歌f9"},
+{"sourceName":"🥭木鱼仓库","sourceUrl":"https://d.kstore.dev/download/12020/ck.json"},
+{"sourceName":"🍍云星仓库","sourceUrl":"http://itvbox.cc/可视TV/云星日记/仓库/api.json"},
+{"sourceName":"🍉砂锅仓库","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
+{"sourceName":"🍐吾爱仓库","sourceUrl":"http://liucn.cc/box/d2.txt"},
+{"sourceName":"🍑天微仓库","sourceUrl":"http://liucn.cc/bs/d4.txt"},
+
+
 {"sourceName":"💛xymn2023Guovin🍭","sourceUrl":"https://gh-proxy.com/https://github.com/xymn2023/iptv-api/blob/master/source.json "},
 {"sourceName":"💛loopool-xl🍭","sourceUrl":"https://gh-proxy.com/https://github.com/loopool/fan/blob/main/xl.json "},
 
