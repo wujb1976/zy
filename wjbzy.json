@@ -9,6 +9,10 @@
             "name": "xiaosa"
         }, 
         {  
+            "url": "https://gh-proxy.com/https://github.com/mrgaoshuiquan/tvbox-config/blob/main/tvbox.json",
+            "name": "mrgaoshuiquan"
+        }, 
+        { 
              "url": "https://gh-proxy.org/https://raw.githubusercontent.com/vcloudc/tvbox/main/tw/api.json",
             "name": "vcloudc"
         }, 
