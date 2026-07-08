@@ -1,7 +1,5 @@
 {
-    "wallpaper": "",
-    "spider": "",
-    "lives": [
+       "lives": [
         {
           "name": "咪咕源",
           "type":"0",
