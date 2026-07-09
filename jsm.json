@@ -1,10 +1,7 @@
-{
-  "spider": "./jar/spider.jar;md5;4a6403eb8f28aa4a968ea131c3a693da",
-  "lives": [
-    {"name": "migu","type": 0,"url": "https://develop202.github.io/migu_video/interface.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
-    {"name": "ahyd","type": 0,"url": "https://gh-proxy.com/https://github.com/xisohi/CHINA-IPTV/blob/main/Unicast/anhui/mobile.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
-    {"name": "ahyd2","type": 0,"url": "https://www.wmviv.com/iptv/ahmoiptv.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"}
-
+{ 
+"lives": [
+{"name": "migu","type": 0,"url": "https://develop202.github.io/migu_video/interface.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
+{"name": "ahyd","type": 0,"url": "https://gh-proxy.com/https://github.com/xisohi/CHINA-IPTV/blob/main/Unicast/anhui/mobile.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"}, {"name": "ahyd2","type": 0,"url": "https://www.wmviv.com/iptv/ahmoiptv.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"}
 {"name": "tianlimigu","type": 0,"url": "https://gh-proxy.com/https://github.com/tianli1680/rihou/blob/main/migu.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
 {"name": "tianliout","type": 0,"url": "https://gh-proxy.com/https://github.com/tianli1680/TV/blob/master/output/user_result.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
 {"name": "tianliyifa","type": 0,"url": "https://gh-proxy.com/https://github.com/tianli1680/yifa/blob/main/yifa.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
@@ -21,18 +18,13 @@
 {"name": "kakaxi","type": 0,"url": "https://gh-proxy.com/https://github.com/kakaxi-1/IPTV/blob/main/ipv4.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
 {"name": "kimwang1978","type": 0,"url": "https://gh-proxy.com/https://github.com/kimwang1978/collect-txt/blob/main/bbxx_lite.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
 {"name": "231006","type": 0,"url": "https://gh-proxy.com/https://github.com/adminouyang/231006/blob/main/py/优质源/output/ipv4/result.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
-
 {"name": "简单","type": 0,"url": "http://iptv.ruyitv.cc/m3u/tv.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
- 
 {"name": "Jsnzkpg","type": 0,"url": "https://codeberg.org/Jsnzkpg/Jsnzkpg/raw/branch/Jsnzkpg/Jsnzkpg1.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
 {"name": "zhourj99","type": 0,"url": "https://gh-proxy.com/https://github.com/zhourj99/zhourj99/blob/main/1.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
-
 {"name": "ioptu","type": 0,"url": "https://gh-proxy.com/https://github.com/ioptu/migu_video/blob/main/migu.m3u","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
 {"name": "chqo","type": 0,"url": "https://gh-proxy.com/https://github.com/chqo/tv/blob/main/tv.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
 {"name": "250992941","type": 0,"url": "https://gh-proxy.com/https://github.com/250992941/TV/blob/master/output/ipv4/result.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},   
 {"name": "xymn2023","type": 0,"url": "https://gh-proxy.com/https://github.com/xymn2023/iptv-api/blob/master/output/ipv4/result.txt","playerType": 1,"ua": "okhttp/3.8.1","timeout": 20,"epg": "https://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"}
-  ],
- "wallpaper": "https://jianbian.chuqiuyu.workers.dev",
-   "sites": [
-      ],
+],
+
  
