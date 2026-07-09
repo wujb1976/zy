@@ -304,6 +304,8 @@
             "url": "https://gh-proxy.com/https://github.com/jn950/live/blob/main/tv/holive.m3u",
             "playerType": 2,
             "timeout": 10
+        },
+        {
          ]
 }
     
