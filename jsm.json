@@ -27,6 +27,13 @@
 "sites":[
  {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
  {"key":"豆","name":"【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
+ {"key": "WexGuaZi","name": "💥 瓜子┃秒播 💥", "type": 3,"api": "csp_WexGuaZiGuard", "searchable": 1, "changeable": 1 },
+{"key": "WexJianPian","name": "💥 贱片┃秒播 💥","type": 3,"api": "csp_WexJianPianGuard","searchable": 1,"changeable": 1},
+{"key": "WexDuBoKu", "name": "💥 独播┃秒播 💥", "type": 3, "api": "csp_WexDuBoKuGuard", "searchable": 1,"changeable": 1},
+{"key": "LiveBiLi", "name": "🅱️ 哔哩┃直播 🅱️", "type": 3, "api": "csp_LiveBiLiGuard",  "searchable": 1,"changeable": 1 },
+{"key": "Music163", "name": "🎼 易听┃音乐 🎼", "type": 3, "api": "csp_Music163Guard",  "searchable": 1, "changeable": 0 },
+{"key": "MusicKuWo","name": "🎼 酷听┃音乐 🎼", "type": 3, "api": "csp_MusicKuWoGuard", "searchable": 1, "changeable": 0},
+{"key": "MusicLunHui","name": "🎼 轮回┃舞曲 🎼","type": 3,"api": "csp_MusicLunHuiGuard","searchable": 1, "changeable": 0},
  {"key":"drpy_js_博看听书","name":"听书┃博看听书[js]","type":3,"api":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/js/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js"}
   ], 
 "parses":[
