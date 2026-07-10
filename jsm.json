@@ -34,9 +34,7 @@
  {"key": "Music163", "name": "🎼 易听┃音乐 🎼", "type": 3, "api": "csp_Music163Guard",  "searchable": 1, "changeable": 0 },
  {"key": "MusicKuWo","name": "🎼 酷听┃音乐 🎼", "type": 3, "api": "csp_MusicKuWoGuard", "searchable": 1, "changeable": 0},
  {"key": "MusicLunHui","name": "🎼 轮回┃舞曲 🎼","type": 3,"api": "csp_MusicLunHuiGuard","searchable": 1, "changeable": 0},
- {"key": "MTV", "name": "🎶 明星┃MV","type": 3,"api": "csp_BiliGuard","style": { "type": "rect", "ratio": 1.597},"searchable": 0, "quickSearch": 0, "changeable": 0,"ext": {"json": "https://szyyds.cn/tv/jx/mingxing.txt"}},
-{"key":"drpy_js_博看听书","name":"听书┃博看听书[js]","type":3,"api":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/js/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js"},
-{"key": "BookYueTing", "name": "🎃 悦庭┃听书 🎃",  "type": 3, "api": "csp_BookYueTingGuard", "searchable": 1, "changeable": 1, "timeout": 120}
+{"key":"drpy_js_博看听书","name":"听书┃博看听书[js]","type":3,"api":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/js/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js"}
   ], 
 "parses":
 {"name":"Json聚合","type":3,"url":"Demo"},
