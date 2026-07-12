@@ -43,12 +43,8 @@
             "filterable": 0,
             "changeable": 0
         },
-  {"key":"爱听音乐","name":"🎧爱听┃音乐","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"ext": {"sp": "AiMusic"}, "timeout":10},
-    {"key":"易听音乐","name":"🎧易听┃音乐","type":3,"api":"csp_AweSomeGuard","searchable":0,"quickSearch":0,"changeable":0,"ext": {"sp": "ShiJiMusic"}, "timeout":10},
-    {"key":"酷狗音乐","name":"🐕酷狗┃音乐","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":0,"changeable":0,"ext": {"sp": "KuGou"}, "timeout":10},
-    {"key":"世界听书","name":"🎸世界┃听书","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":0,"changeable":0,"ext": {"sp": "BookTing"}, "timeout":10},
-    {"key":"听悠听书","name":"🎤听悠┃听书","type":3,"api":"csp_AweSomeGuard","searchable":1,"quickSearch":0,"changeable":0,"ext": {"sp": "TingYou"}, "timeout":10},
- {"key":"Buguyy","name":"🐦┆布谷┆音乐","type":3,"api":"csp_Buguyy","searchable":1,"filterable":1,"changeable":1},
+ 
+
   {"key":"drpy_js_DJ音乐","name":"音频┃DJ音乐[js]","type":3,"api":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/js/DJ%E9%9F%B3%E4%B9%90.js"},
   {"key":"drpy_js_博看听书","name":"听书┃博看听书[js]","type":3,"api":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1},"ext":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/js/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js"}
   ], 
