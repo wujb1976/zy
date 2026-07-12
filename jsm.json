@@ -30,13 +30,7 @@
  {"key":"豆","name":"【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
   {"key":"瓜子","name":"👀瓜子┃不卡","type":3,"api":"csp_AppgzGuard","timeout":15,"playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
  {"key": "天天","name": "🧿┃天天┃秒播","type": 3,"api": "csp_TTian", "searchable": 1,  "quickSearch": 1, "filterable": 1,"jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",  "ext": "7lj763gg0939791h1l3888jig44gi291li" },
- {"key": "瓜子影视",
-  "name": "🌻┃瓜子┃影视",
-  "type": 2,
-  "api": "csp_Guazi",
-  "searchable": 1,
-  "quickSearch": 1, 
-    "changeable": 1},
+
 {"key": "Bili","name": "🅱哔哔合集┃弹幕","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"}}, 
 
   {"key":"drpy_js_DJ音乐","name":"音频┃DJ音乐[js]","type":3,"api":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js","changeable":0,"ext":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/js/DJ%E9%9F%B3%E4%B9%90.js"},
