@@ -23,7 +23,7 @@
   {"name":"kakaxi","type":0,"url":"https://gh-proxy.com/https://github.com/kakaxi-1/IPTV/blob/main/ipv4.txt"},
 {"name":"xymn2023itvlist","type":0,"url":"https://gh-proxy.com/https://github.com/xymn2023/checkiptv/blob/main/itvlist.m3u"}
 ],
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+"wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
  {"key": "本地","name": "本地｜视频","type": 3,"api": "csp_LocalFile"},
  {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":10,"searchable":1,"quickSearch":1,"changeable":1},
