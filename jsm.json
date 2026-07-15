@@ -1,4 +1,5 @@
 {
+ "spider":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/jar/spider.jar;md5;4a6403eb8f28aa4a968ea131c3a693da",
 "spider":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/jar/fan.txt;md5;4a6403eb8f28aa4a968ea131c3a693da",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[{"name":"develop202","type":0,"url":"https://gh-proxy.com/https://github.com/develop202/migu_video/blob/main/interface.txt","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
