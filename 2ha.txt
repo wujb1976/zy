@@ -1,3 +1,6 @@
+
+"spider":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/jar/spider.jar;md5;20b61ea1e8772fd2f8e013c5c2fab86f",
+
 {
   "spider":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
