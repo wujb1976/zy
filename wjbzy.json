@@ -167,7 +167,11 @@
             "url": "https://gh-proxy.com/https://github.com/scorpion2u/tvbox-config/blob/main/star1.json",
             "name": "scorpion2u-2"
         }, 
-        
+
+        {
+            "url": "https://gh-proxy.com/https://github.com/rrzt/tvbox_collect/blob/main/tbapi1/FTY/api.json",
+            "name": "rrzt-FTY"
+        }, 
         
 
         
