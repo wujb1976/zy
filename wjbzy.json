@@ -124,7 +124,53 @@
         {            
             "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi2/blob/main/xiaosa/api.json",            
             "name": "XIAOSA"  
-            },    
+            }, 
+
+        {  
+            "url": "https://tv.cc0cd.cc.cd",
+            "name": "25175"
+        }, 
+
+        {  
+            "url": "https://gh-proxy.com/https://github.com/25175/tvyuan/blob/master/tvbox_full.json",
+            "name": "25175-full"
+        }, 
+
+        {  
+            "url": "https://gh-proxy.com/https://github.com/lumohomo/tvbox-config/blob/main/tvbox-config.json",
+            "name": "lumohomo"
+        }, 
+         {  
+            "url": "https://gh-proxy.com/https://github.com/wvv666/tvbox-config/blob/master/config.json",
+            "name": "wvv666"
+        }, 
+         {  
+            "url": "https://gh-proxy.com/https://github.com/474706852/TVBox-Config/blob/master/TV_Pro.json",
+            "name": "474706852"
+        }, 
+{  
+            "url": "https://gh-proxy.com/https://github.com/Reflyer823/tvbox-config/blob/master/main.json",
+            "name": "Reflyer823"
+        }, 
+
+ 
+        {
+            "url": "https://gh-proxy.com/https://github.com/MrArven/TVBoxConfig/blob/main/api.json",
+            "name": "MrArven"
+        }, 
+         
+        {
+            "url": "https://gh-proxy.com/https://github.com/scorpion2u/tvbox-config/blob/main/star1.json",
+            "name": "scorpion2u-1"
+        }, 
+        {
+            "url": "https://gh-proxy.com/https://github.com/scorpion2u/tvbox-config/blob/main/star1.json",
+            "name": "scorpion2u-2"
+        }, 
+        
+        
+
+        
         {
             "url": "http://影视仓接口.top",
             "name": "快乐接口"
