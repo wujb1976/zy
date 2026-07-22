@@ -4,7 +4,10 @@
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 "lives":[{"name":"develop202","type":0,"url":"https://gh-proxy.com/https://github.com/develop202/migu_video/blob/main/interface.txt","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"ahyd","type":0,"url":"https://gh-proxy.com/https://github.com/xisohi/CHINA-IPTV/blob/main/Unicast/anhui/mobile.txt","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}"},
-{"name":"简单","type":0,"url":"http://iptv.ruyitv.cc/m3u/tv.txt","ua": "okhttp/3.15","playerType":2},
+{"name":"doubletree6","type":0,"url":"https://gh-proxy.com/https://github.com/doubletree6/tvbox-iptv-subscription/blob/main/cn_all_tvbox_multi.txt"},
+{"name":"Kinghuchao","type":0,"url":"https://gh-proxy.com/https://github.com/Kinghuchao/tvbox-live/blob/main/docs/cctv.m3u"},
+ 
+ {"name":"简单","type":0,"url":"http://iptv.ruyitv.cc/m3u/tv.txt","ua": "okhttp/3.15","playerType":2},
 {"name":"zhourj99","type":0,"url":"https://gh-proxy.com/https://github.com/zhourj99/zhourj99/blob/main/1.m3u","ua": "okhttp/3.15","playerType":2},
 {"name":"chqo-tv","type":0,"url":"https://gh-proxy.com/https://github.com/chqo/tv/blob/main/tv.txt","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://logo.wyfc.qzz.io/{name}.png"},
 {"name":"liuchuang0321","type":0,"url":"https://gh-proxy.com/https://github.com/liuchuang0321/K-TV/blob/master/output/ipv4/result.txt","playerType":1,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://logo.wyfc.qzz.io/{name}.png"},
