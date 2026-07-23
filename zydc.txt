@@ -33,6 +33,8 @@
 {"sourceName":"💛loopool-xl🍭","sourceUrl":"https://gh-proxy.com/https://github.com/loopool/fan/blob/main/xl.json "},
 {"sourceName":"💛Tomorrow🍭","sourceUrl":"https://gh-proxy.com/https://github.com/tushen6/Tomorrow/blob/master/lmw.json "},
 {"sourceName":"💛haonanren118🍭","sourceUrl":"https://gh-proxy.com/https://github.com/haonanren118/tvbox-kstore/blob/main/download/1/tvbox/source.json "},
+{"sourceName":"💛EasyXC-dc🍭","sourceUrl":"https://gh-proxy.com/https://github.com/EasyXC/EasyTVbox/blob/main/easydc.jpg "},
+
 
 {"sourceName":"💜wjb🍭26.06.30测试🍭","sourceUrl":"更新时间"}
 ]}
