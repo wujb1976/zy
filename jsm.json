@@ -3,6 +3,10 @@
  "spider":"./jar/custom_spider.jar;md5;2608f471a7eeaf86e6e34a18e5576b2d",
 "lives":
  [
+  {"name":"ahyd",
+   "type":0,
+   "url":"https://gh-proxy.com/https://github.com/xisohi/CHINA-IPTV/blob/main/Unicast/anhui/mobile.txt",
+   },
   
  ],
 
