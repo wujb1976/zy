@@ -1,9 +1,11 @@
-
+###"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar;md5;8432d174d72d5b608ae1bcd16d966847"
+###"logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 {
 
-"spider":"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar;md5;8432d174d72d5b608ae1bcd16d966847",
-"logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
-"lives":[{"name":"ahyd","type":0,"url":"https://gh-proxy.com/https://github.com/xisohi/CHINA-IPTV/blob/main/Unicast/anhui/mobile.txt","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}"},
+"spider":"./jar/spider.jar/custom_spider.jar",
+
+"lives":
+ [  {"name":"ahyd","type":0,"url":"https://gh-proxy.com/https://github.com/xisohi/CHINA-IPTV/blob/main/Unicast/anhui/mobile.txt","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}"},
 {"name":"安徽合并","type":0,"url":"https://gh-proxy.com/https://github.com/wujb1976/yingyue/blob/main/anhuiyidong.txt"},
  {"name":"doubletree6","type":0,"url":"https://gh-proxy.com/https://github.com/doubletree6/tvbox-iptv-subscription/blob/main/cn_all_tvbox_multi.txt"},
 {"name":"Kinghuchao","type":0,"url":"https://gh-proxy.com/https://github.com/Kinghuchao/tvbox-live/blob/main/docs/cctv.m3u"},
