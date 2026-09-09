@@ -27,11 +27,17 @@
   "url": "https://z.szyyds.cn/iptv"},
  {"name": "hj",
   "type": 0,
-  "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/hj.txt"},
+  "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/hj.txt"}
   
  ],
 
 "sites":[
+ {
+  "key": "本地",
+  "name": "本地｜视频",
+  "type": 3,
+  "api": "csp_LocalFile"
+ },
   {
    "key": "爱听音乐",
   "name": "爱听 • 音乐",
