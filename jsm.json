@@ -7,12 +7,12 @@
  ],
 
 "sites":[
-  {"key": "爱听音乐",
+  {
+   "key": "爱听音乐",
   "name": "爱听 • 音乐",
   "type": 3,
   "api": "https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py"
-  
- },
+  },
   {
   "key": "天天",
   "name": "🧿┃天天┃秒播",
@@ -24,9 +24,8 @@
   "jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E", 
   "ext": "7lj763gg0939791h1l3888jig44gi291li"
  },
-
-
-{"key":"相声随声听",
+{
+ "key":"相声随声听",
 "name":"相声随声听[js]",
 "type":3,
 "api":"https://gh-proxy.com/https://github.com/zheng197600/tvbox/blob/main/lib/drpy2.min.js",
@@ -35,7 +34,8 @@
   "quickSearch":0
   },
 
- {"key":"drpy_js_评书随身听",
+ {
+  "key":"drpy_js_评书随身听",
   "name":"评书┃评书随身听[js]",
   "type":3,
   "api":"https://gh-proxy.com/https://github.com/zheng197600/tvbox/blob/main/lib/drpy2.min.js",
@@ -43,8 +43,7 @@
   "searchable": 0, 
   "quickSearch":0
  },
- 
-  {
+   {
    "key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
    "type":3,
