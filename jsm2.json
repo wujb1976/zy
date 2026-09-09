@@ -33,11 +33,6 @@
 ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
 "sites":[
- {"key": "本地",
-  "name": "本地｜视频",
-  "type": 3,
-  "api": "csp_LocalFile"
- },
   
   {"key": "瓜子影视",
    "name": "瓜子 • 影视",
