@@ -1,6 +1,6 @@
 
 {
-"spider":"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar;md5;c0de87bb3f38b2ffc17ca643d2ce5eaf",
+"spider":"./spider.jar;md5;c0de87bb3f38b2ffc17ca643d2ce5eaf",
 
 "lives":
  [ 
