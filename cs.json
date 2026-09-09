@@ -43,102 +43,126 @@
       "name": "千千音乐",
       "type": 3,
       "api": "./FGBLH-PY/千千音乐🍀TG @hshsjk9.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
     },
 {
       "key": "听书网",
       "name": "听书网",
       "type": 3,
       "api": "./FGBLH-PY/听书网456🍀TG @hshsjk9.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
     },
     {
       "key": "好好看",
       "name": "好好看",
       "type": 3,
       "api": "./FGBLH-PY/好好看🍀TG @hshsjk9.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
     },
     {
       "key": "悦听吧",
       "name": "悦听吧",
       "type": 3,
       "api": "./FGBLH-PY/悦听吧.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
     },
     {
       "key": "易听书网",
       "name": "易听书网",
       "type": 3,
       "api": "./FGBLH-PY/易听书网🍀TG @hshsjk9.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
     },
      {
       "key": "瓜子app",
       "name": "瓜子app",
       "type": 3,
       "api": "./FGBLH-PY/瓜子APP.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
     },
      {
       "key": "酷我音乐",
       "name": "酷我音乐",
        "type": 3,
       "api": "./FGBLH-PY/酷我音乐.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
     },
      {
       "key": "音乐聚合",
       "name": "音乐聚合",
       "type": 3,
       "api": "./FGBLH-PY/音乐聚合🍀TG @hshsjk9.py",
-      "searchable": 0,
-   "filterable": 0,
-   "changeable": 0
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
     },
     {
       "key": "爱听音乐",
       "name": "爱听音乐",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1
     }
   ],
 
 "lives": [
     {
       "key": "live",
-      "name": "直播",
+      "name": "travellinfang",
       "type": 0,
       "url": "https://gh-proxy.com/https://github.com/travellinfang/my-iptv/blob/main/output/live_available.txt"
     },
     {
       "key": "live",
-      "name": "iptv",
+      "name": "kakaxi-1",
       "type": 0,
       "url": "https://gh-proxy.com/https://github.com/kakaxi-1/IPTV/blob/main/iptv.txt"
     },
     {
       "key": "live",
-      "name": "migu",
+      "name": "ioptu-migu",
       "type": 0,
       "url": "https://gh-proxy.com/https://github.com/ioptu/migu_video/blob/main/migu.m3u"
+    },
+  {
+      "key": "live",
+      "name": "dongliTV接口内置",
+      "type": 0,
+      "url": "https://ds65.tv1288.xyz"
+    },
+   {
+      "key": "live",
+      "name": "wzg2内置源",
+      "type": 0,
+      "url": "https://tv6.tv1288.xyz"
+    },
+  {
+      "key": "live",
+      "name": "九月小小屋",
+      "type": 0,
+      "url": "https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u"
+    },
+  {
+      "key": "live",
+      "name": "小马接口内置",
+      "type": 0,
+      "url": "https://z.szyyds.cn/iptv"
     },
     {
       "key": "live",
