@@ -107,6 +107,7 @@
  "url":"https://gh-proxy.com/https://github.com/xymn2023/checkiptv/blob/main/itvlist.m3u"}
 ],
 "wallpaper":"https://wallpaper-1tg.pages.dev/",
+ "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
 "sites":[
  {"key": "本地",
   "name": "本地｜视频",
