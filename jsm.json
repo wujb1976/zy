@@ -3,14 +3,16 @@
 
 "spider":"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar;md5;8432d174d72d5b608ae1bcd16d966847",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
-"lives":[{"name":"develop202","type":0,"url":"https://gh-proxy.com/https://github.com/develop202/migu_video/blob/main/interface.txt","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
-{"name":"ahyd","type":0,"url":"https://gh-proxy.com/https://github.com/xisohi/CHINA-IPTV/blob/main/Unicast/anhui/mobile.txt","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}"},
+"lives":[{"name":"ahyd","type":0,"url":"https://gh-proxy.com/https://github.com/xisohi/CHINA-IPTV/blob/main/Unicast/anhui/mobile.txt","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}"},
 {"name":"安徽合并","type":0,"url":"https://gh-proxy.com/https://github.com/wujb1976/yingyue/blob/main/anhuiyidong.txt"},
  {"name":"doubletree6","type":0,"url":"https://gh-proxy.com/https://github.com/doubletree6/tvbox-iptv-subscription/blob/main/cn_all_tvbox_multi.txt"},
 {"name":"Kinghuchao","type":0,"url":"https://gh-proxy.com/https://github.com/Kinghuchao/tvbox-live/blob/main/docs/cctv.m3u"},
 {"name":"smxhlh","type":0,"url":"https://gh-proxy.com/https://github.com/smxhlh/TV/blob/main/iptv_all.txt"},
-
- 
+{"name": "dongliTV接口内置","type": 0,"url": "https://ds65.tv1288.xyz"},
+ {"name": "wzg2内置源","type": 0,"url": "https://tv6.tv1288.xyz"},
+ {"name": "九月小小屋","type": 0,"url": "https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u"},
+ {"name": "小马接口内置","type": 0,"url": "https://z.szyyds.cn/iptv"},
+ {"name": "hj","type": 0,"url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/hj.txt"}，
  {"name":"简单","type":0,"url":"http://iptv.ruyitv.cc/m3u/tv.txt","ua": "okhttp/3.15","playerType":2},
 {"name":"zhourj99","type":0,"url":"https://gh-proxy.com/https://github.com/zhourj99/zhourj99/blob/main/1.m3u","ua": "okhttp/3.15","playerType":2},
 {"name":"chqo-tv","type":0,"url":"https://gh-proxy.com/https://github.com/chqo/tv/blob/main/tv.txt","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://logo.wyfc.qzz.io/{name}.png"},
