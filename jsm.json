@@ -3,12 +3,7 @@
  "spider":"./jar/custom_spider.jar;md5;2608f471a7eeaf86e6e34a18e5576b2d",
 
 "sites":[
- {
-  "key": "本地",
-  "name": "本地｜视频",
-  "type": 3,
-  "api": "csp_LocalFile"
- },
+ 
   {
    "key": "爱听音乐",
   "name": "爱听 • 音乐",
