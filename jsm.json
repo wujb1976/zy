@@ -2,7 +2,7 @@
 ###"logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
 {
 
-"spider":"./jar/spider.jar/custom_spider.jar",
+"spider":"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar;md5;c0de87bb3f38b2ffc17ca643d2ce5eaf",
 
 "lives":
  [  {"name":"ahyd","type":0,"url":"https://gh-proxy.com/https://github.com/xisohi/CHINA-IPTV/blob/main/Unicast/anhui/mobile.txt","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}"},
