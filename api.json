@@ -99,12 +99,13 @@
    "name": "A8音乐",
    "type": 3,
    "api": "./lib/drpy2.min.js",
+   "style":{"type":"rect","ratio":1.597},
    "changeable":0,
     "ext":"./js/A8音乐.js"
      },
     {
    "key": "drpy_js_A8音乐",
-   "name": "A8音乐",
+   "name": "A8音乐2",
    "type": 3,
       "api":"./js/A8音乐.js"
      },
