@@ -94,15 +94,7 @@
    "type": 3,
    "api": "./js/荐片.js"
   },
-   
-    {
-   "key": "drpy_js_dygang",
-   "name": "dygang[js]",
-   "type": 3,
-    "api":"./lib/drpy2.min.js",
-      "changeable":0,
-      "ext":"./js/dygang.js"
-    },
+     
   {"key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
    "type":3,
