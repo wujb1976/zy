@@ -99,10 +99,8 @@
    "name": "3Q影视[js]",
    "type": 3,
    "api": "./lib/drpy2.min.js",
-    "ext":"./js/3Q影视.js",
-  "searchable": 1, 
-  "quickSearch":1  
-  },
+    "ext":"./js/3Q影视.js"
+     },
     
   {"key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
