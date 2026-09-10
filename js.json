@@ -123,54 +123,7 @@
   ],
 
 "lives": [
-    {
-      "key": "live",
-      "name": "travellinfang",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://github.com/travellinfang/my-iptv/blob/main/output/live_available.txt"
-    },
-    {
-      "key": "live",
-      "name": "kakaxi-1",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://github.com/kakaxi-1/IPTV/blob/main/iptv.txt"
-    },
-    {
-      "key": "live",
-      "name": "ioptu-migu",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://github.com/ioptu/migu_video/blob/main/migu.m3u"
-    },
-    {
-      "key": "live",
-      "name": "dongliTV接口内置",
-      "type": 0,
-      "url": "https://ds65.tv1288.xyz"
-    },
-   {
-      "key": "live",
-      "name": "wzg2内置源",
-      "type": 0,
-      "url": "https://tv6.tv1288.xyz"
-    },
-  {
-      "key": "live",
-      "name": "九月小小屋",
-      "type": 0,
-      "url": "https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u"
-    },
-  {
-      "key": "live",
-      "name": "小马接口内置",
-      "type": 0,
-      "url": "https://z.szyyds.cn/iptv"
-    },
-    {
-      "key": "live",
-      "name": "hj",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/hj.txt"
-    }
+    
     
   ],
   "parses": [
