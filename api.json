@@ -106,7 +106,7 @@
    "key": "drpy_js_A8音乐",
    "name": "A8音乐",
    "type": 3,
-      "ext":"./js/A8音乐.js"
+      "api":"./js/A8音乐.js"
      },
   {"key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
