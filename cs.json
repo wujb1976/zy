@@ -171,5 +171,18 @@
       "type": 0,
       "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/hj.txt"
     }
+  ],
+  
+"parses": [
+    {
+      "name": "解析",
+      "type": 3,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "解析",
+      "type": 3,
+      "url": "http://api.aikantv.cc/?url="
+    }
   ]
 }
