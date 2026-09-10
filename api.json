@@ -108,8 +108,8 @@
    "name": "A8音乐2",
    "type": 3,
       "api":"./js/A8音乐.js",
-      searchable:2,
-    quickSearch:0
+      "searchable":2,
+    "quickSearch":0
      },
   {"key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
