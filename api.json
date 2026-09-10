@@ -96,10 +96,11 @@
   },
    
     {
-   "key": "cilixiong",
-   "name": "cilixiong",
+   "key": "ddys",
+   "name": "ddys",
    "type": 3,
-    "api":"./js/cilixiong.js"
+    "api":"./lib/drpy2.min.js"
+    "ext":"./js/ddys.js"
     
      },
   {"key":"drpy_js_DJ音乐",
