@@ -96,12 +96,11 @@
   },
    
     {
-   "key": "ddys",
-   "name": "ddys",
+   "key": "蜻蜓FM",
+   "name": "蜻蜓FM",
    "type": 3,
-    "api":"./lib/drpy2.min.js"
-    "ext":"./js/ddys.js"
-    
+    "api":"./js/蜻蜓FM.js"
+       
      },
   {"key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
