@@ -97,7 +97,7 @@
    
     {
    "key": "蜻蜓FM",
-   "name": "蜻蜓FM",
+   "name": "蜻蜓FM[js]",
    "type": 3,
     "api":"./js/蜻蜓FM.js"
        
