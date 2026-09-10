@@ -1,6 +1,10 @@
 {
   "spider":"https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/jar/spider.jar;md5;176deff1724a6fdc9bd97f8e6e04b562",
-   "wallpaper": "https://wallpaper-1tg.pages.dev/",
+  "lives": [
+    
+  ],
+  
+  "wallpaper": "https://wallpaper-1tg.pages.dev/",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
 
@@ -122,10 +126,7 @@
 
   ],
 
-"lives": [
-    
-    
-  ],
+
   "parses": [
     {"name": "Json聚合","type": 3,"url": "Demo"},
     {"name": "jx","type": 0,"url": "https://jx.m3u8.tv/jx/jx.php?url="},
