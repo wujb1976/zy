@@ -96,12 +96,11 @@
   },
    
     {
-   "key": "A8音乐",
-   "name": "A8音乐2",
+   "key": "cilixiong",
+   "name": "cilixiong",
    "type": 3,
-    "api":"./js/A8音乐.js",
-      "searchable":2,
-    "quickSearch":0
+    "api":"./js/cilixiong.js"
+    
      },
   {"key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
