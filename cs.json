@@ -61,10 +61,10 @@
    "changeable":1
     },
     {
-      "key": "JPYS",
-      "name": "金牌影视",
+      "key": "GSYS",
+      "name": "影视",
       "type": 3,
-      "api": "./xspy/JPYS.py",
+      "api": "./xspy/GSYS.py",
       "searchable":1,
    "filterable":1,
    "changeable":1
