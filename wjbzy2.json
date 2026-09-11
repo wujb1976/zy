@@ -12,18 +12,12 @@
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/肥猫/api.json", 
             "name": "肥猫1" 
         },
-        { 
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/xyqonlinerule/main/XYQTVBox.json", 
-            "name": "香雅情[原]1" 
-        },
+       
         {  
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/南风/api.json", 
             "name": "南风1" 
         },
-        { 
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/PG/api.json", 
-            "name": "PG1" 
-        },
+        
         { 
             "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/摸鱼儿/api.json", 
             "name": "摸鱼儿1" 
@@ -45,51 +39,42 @@
             "name": "少儿频道1" 
         },
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/aowu/api.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/嗷呜/api.json",
             "name": "嗷呜1"
         },
+        
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/newwex/api.json",
-            "name": "newwex1"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/vox/api.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/集多/api.json",
             "name": "集多1"
         },
+        
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/py/api.json",
-            "name": "py1"
-        },
-        {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/huban/api.json",
+            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/小虎斑/api.json",
             "name": "小虎斑1"
         },
+       
         {
-            "url": "https://gh-proxy.org/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosa/api.json",
-            "name": "潇洒单线路1"
-        },
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/影视/api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/tbapi2/tree/main/xiaosac/影视/api.json",
             "name": "潇洒多线-影视1"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/动漫/api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/tbapi2/tree/main/xiaosac/动漫/api.json",
             "name": "潇洒多线-动漫1"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/文艺/api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/tbapi2/tree/main/xiaosac/文艺/api.json",
             "name": "潇洒多线-文艺1"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/教育/api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/tbapi2/tree/main/xiaosac/教育/api.json",
             "name": "潇洒多线-教育1"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/磁力/api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/tbapi2/tree/main/xiaosac/磁力/api.json",
             "name": "潇洒多线-磁力1"
         },
         {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/testboxapi/main/xiaosac/云盘/api.json",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ls125781003/tbapi2/tree/main/xiaosac/云盘/api.json",
             "name": "潇洒多线-云盘1"
              },
         {
