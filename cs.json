@@ -16,10 +16,10 @@
     },
     
     {
-      "key": "金牌app",
-      "name": "金牌app",
+      "key": "qiyou",
+      "name": "奇优影院",
       "type": 3,
-      "api": "./FGBLH-PY/金牌APP.py",
+      "api": "./FGBLH-PY/奇优影院.py",
       "searchable":1,
       "quickSearch":1,
       "changeable":1     
