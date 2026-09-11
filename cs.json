@@ -16,10 +16,10 @@
     },
     
     {
-      "key": "qiyou",
-      "name": "奇优影院",
+      "key": "热播APP",
+      "name": "热播APP",
       "type": 3,
-      "api": "./FGBLH-PY/奇优影院.py",
+      "api": "./FGBLH-PY/热播APP.py",
       "searchable":1,
       "quickSearch":1,
       "changeable":1     
