@@ -11,6 +11,11 @@
    "filterable":1,
    "changeable":1
     },
+     {"key": "瓜子影视",
+   "name": "瓜子 • 影视",
+   "type": 3,
+   "api": "csp_Gz360"
+  },
     {
       "key": "金牌app",
       "name": "金牌app",
