@@ -60,15 +60,7 @@
    "filterable":1,
    "changeable":1
     },
-    {
-      "key": "GSYS",
-      "name": "影视",
-      "type": 3,
-      "api": "./xspy/GSYS.py",
-      "searchable":1,
-   "filterable":1,
-   "changeable":1
-    },
+    
     {
       "key": "悦听吧",
       "name": "悦听吧",
