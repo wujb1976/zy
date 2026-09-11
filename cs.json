@@ -61,10 +61,10 @@
    "changeable":1
     },
     {
-      "key": "好好看",
-      "name": "好好看",
+      "key": "金牌APP",
+      "name": "金牌APP",
       "type": 3,
-      "api": "./FGBLH-PY/好好看🍀TG @hshsjk9.py",
+      "api": "./FGBLH-PY/金牌APP.py",
       "searchable":1,
    "filterable":1,
    "changeable":1
