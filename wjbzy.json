@@ -97,9 +97,14 @@
             "name": "QIST-JSM"
         }, 
         {  
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.png",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/leevi0709/one/refs/heads/main/config.bin",
             "name": "leevi0709config"
         }, 
+        {  
+            "url": "https://gh-proxy.com/ https://github.com/wujb1976/one/blob/main/jsm.json",
+            "name": "leevi0709jsm"
+        }, 
+       
         {  
              "url": "https://gh-proxy.com/https://github.com/ls125781003/tbapi1/blob/main/FM/api.json",
             "name": "FM"
