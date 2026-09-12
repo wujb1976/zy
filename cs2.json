@@ -142,7 +142,7 @@
    "filterable": 0,
    "changeable": 0
   },
-    {"key": "Bili",
+   // {"key": "Bili",
  "name": "🅱哔哔合集┃弹幕",
  "type": 3,
  "api": "csp_BiliGuard",
@@ -152,7 +152,7 @@
  "changeable": 0,
  "ext": {"json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"}
 }, 
-{"key":"MTV1",
+//{"key":"MTV1",
  "name":"🎙️易听音乐┃带歌词",
  "type":3,
  "api":"csp_MusicGuard",
