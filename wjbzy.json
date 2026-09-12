@@ -11,12 +11,20 @@
             "name": "api"
         }, 
         {  
-             "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/jsm.json",
-            "name": "zyjsm"
+             "url": "https://gh-proxy.com/https://github.com/wujb1976/yingyue/blob/main/影视/api.json",
+            "name": "zj影视"
         }, 
         {  
-             "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/jsm2.json",
-            "name": "zyjsm2"
+             "url": "https://gh-proxy.com/https://github.com/wujb1976/yingyue/blob/main/文艺/api.json",
+            "name": "zj文艺"
+        }, 
+         {  
+             "url": "https://gh-proxy.com/https://github.com/wujb1976/yingyue/blob/main/教育/api.json",
+            "name": "zj教育"
+        }, 
+         {  
+             "url": "https://gh-proxy.com/https://github.com/wujb1976/yingyue/blob/main/磁力/api.json",
+            "name": "zj磁力"
         }, 
         {  
              "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/cs.json",
