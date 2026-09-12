@@ -1,5 +1,4 @@
- ##"spider":"./jar/custom_spider.jar;md5;2608f471a7eeaf86e6e34a18e5576b2d",
-##"spider":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/jar/fan.txt;md5;8432d174d72d5b608ae1bcd16d966847",
+
 {
    "spider":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/custom_spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
   
@@ -142,27 +141,7 @@
    "filterable": 0,
    "changeable": 0
   },
-   // {"key": "Bili",
- "name": "🅱哔哔合集┃弹幕",
- "type": 3,
- "api": "csp_BiliGuard",
- "style": {"type": "rect","ratio": 1.597},
- "searchable": 1,
- "quickSearch": 0,
- "changeable": 0,
- "ext": {"json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"}
-}, 
-//{"key":"MTV1",
- "name":"🎙️易听音乐┃带歌词",
- "type":3,
- "api":"csp_MusicGuard",
- "style":{"type":"rect","ratio":1},
- "playerType":2,
- "searchable":0,
- "quickSearch":0,
- "changeable":0
-},
-
+   
     {
       "key": "fyyy",
       "name": "枫叶音乐",
