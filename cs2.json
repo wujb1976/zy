@@ -260,7 +260,15 @@
     
   ],
 
+
 "lives": [
+   
+  {
+      "key": "live",
+      "name": "kulaoTV",
+      "type": 0,
+      "url": "https://live.445569.xyz/live.m3u"
+    },
     {
       "key": "live",
       "name": "travellinfang",
