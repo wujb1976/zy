@@ -262,6 +262,12 @@
 
 
 "lives": [
+   {
+      "key": "live",
+      "name": "hj",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/hj.txt"
+    },
    
   {
       "key": "live",
@@ -269,6 +275,7 @@
       "type": 0,
       "url": "https://live.445569.xyz/live.m3u"
     },
+   {"name":"简单","type":0,"url":"http://iptv.ruyitv.cc/m3u/tv.txt","ua": "okhttp/3.15","playerType":2},
     {
       "key": "live",
       "name": "travellinfang",
@@ -310,12 +317,6 @@
       "name": "小马接口内置",
       "type": 0,
       "url": "https://z.szyyds.cn/iptv"
-    },
-    {
-      "key": "live",
-      "name": "hj",
-      "type": 0,
-      "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/hj.txt"
     }
   ],
   
