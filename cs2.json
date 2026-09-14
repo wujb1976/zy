@@ -1,6 +1,6 @@
 
 {
-   "spider":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/custom_spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+   "spider":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/custom_spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
   
   "sites": [
        
@@ -109,7 +109,7 @@
       "key": "爱听音乐",
       "name": "爱听音乐",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/qist/tvbox/blob/master/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py",
+      "api": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py",
       "searchable":1,
       "quickSearch":1,
       "changeable":1
@@ -219,43 +219,43 @@
  {"key":"drpy_js_奇珍异兽",
   "name":"奇珍异兽[js]",
   "type":3,
-  "api":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
-  "ext":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/奇珍异兽.js"},
+  "api":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
+  "ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/奇珍异兽.js"},
         {"key":"drpy_js_优酷",
          "name":"优酷[js]",
          "type":3,
-         "api":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
-         "ext":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/优酷.js"},
+         "api":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
+         "ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/优酷.js"},
         {"key":"drpy_js_腾云驾雾",
          "name":"腾云驾雾[js]",
          "type":3,
-         "api":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
-         "ext":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/腾云驾雾.js"},
+         "api":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
+         "ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/腾云驾雾.js"},
         {"key":"drpy_js_百忙无果",
          "name":"百忙无果[js]",
          "type":3,
-         "api":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
-         "ext":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/百忙无果.js"},
+         "api":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
+         "ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/百忙无果.js"},
     {"key":"drpy_js_金牌",
      "name":"金牌影视[js]",
      "type":3,
-     "api":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
-     "ext":"https://gh-proxy.com/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/金牌影视.js"},
+     "api":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
+     "ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/金牌影视.js"},
      
   {"key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
    "type":3,
-   "api":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js",
+   "api":"https://gh-proxy.org/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js",
    "changeable":0,
-   "ext":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/js/DJ%E9%9F%B3%E4%B9%90.js"
+   "ext":"https://gh-proxy.org/https://github.com/wujb1976/qist/blob/master/js/DJ%E9%9F%B3%E4%B9%90.js"
   },
      {"key":"drpy_js_博看听书",
    "name":"听书┃博看听书[js]",
    "type":3,
-   "api":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js",
+   "api":"https://gh-proxy.org/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js",
    "changeable":0,
    "style":{"type":"rect","ratio":1},
-   "ext":"https://gh-proxy.com/https://github.com/wujb1976/qist/blob/master/js/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js"
+   "ext":"https://gh-proxy.org/https://github.com/wujb1976/qist/blob/master/js/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js"
   }
     
   ],
@@ -266,7 +266,7 @@
       "key": "live",
       "name": "hj",
       "type": 0,
-      "url": "https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/hj.txt"
+      "url": "https://gh-proxy.org/https://github.com/wujb1976/zy/blob/main/hj.txt"
     },
    
   {
@@ -280,19 +280,19 @@
       "key": "live",
       "name": "travellinfang",
       "type": 0,
-      "url": "https://gh-proxy.com/https://github.com/travellinfang/my-iptv/blob/main/output/live_available.txt"
+      "url": "https://gh-proxy.org/https://github.com/travellinfang/my-iptv/blob/main/output/live_available.txt"
     },
     {
       "key": "live",
       "name": "kakaxi-1",
       "type": 0,
-      "url": "https://gh-proxy.com/https://github.com/kakaxi-1/IPTV/blob/main/iptv.txt"
+      "url": "https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/iptv.txt"
     },
     {
       "key": "live",
       "name": "ioptu-migu",
       "type": 0,
-      "url": "https://gh-proxy.com/https://github.com/ioptu/migu_video/blob/main/migu.m3u"
+      "url": "https://gh-proxy.org/https://github.com/ioptu/migu_video/blob/main/migu.m3u"
     },
   {
       "key": "live",
