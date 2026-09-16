@@ -1,43 +1,7 @@
 {
 "storeHouse": [
-{"sourceName":"💚无邪优选仓🍭热门推荐🍭","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/main/yx.txt"},
-{"sourceName":"💛无邪聚合仓🍭聚合全网🍭","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/main/jh.txt"},
-{"sourceName":"💛chendi0207本地仓🍭","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/chendi0207/my-TVBOX/refs/heads/main/本地仓.txt"},
-{"sourceName":"💛alantang1977X-if🍭","sourceUrl":"https://gh-proxy.com/https://github.com/alantang1977/X/blob/main/if.json"},
-{"sourceName":"💛wzh15082🍭","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/wzh15802/tvbox/main/tv.json"},
-{"sourceName":"💛Fanchangwang🍭","sourceUrl":"https://gh-proxy.com/https://github.com/FanchangWang/tvbox_config/blob/main/dist/tvbox.json"},
-{"sourceName":"💛niuber🍭","sourceUrl":"https://gh-proxy.com/https://github.com/niuber/niuber/blob/main/niuber.json"},
-{"sourceName":"💛hd9211优质🍭","sourceUrl":"https://gh-proxy.com/https://github.com/hd9211/Tvbox1/blob/main/优质.json"},
-{"sourceName":"💛231006影视线路🍭","sourceUrl":"https://gh-proxy.com/https://github.com/adminouyang/231006/blob/main/tvbox/影视线路.txt"},
-{"sourceName":"💛noimank🍭","sourceUrl":"https://gh-proxy.com/https://github.com/noimank/tvbox/blob/main/tvboxmuti.json"},
-{"sourceName":"💛黎哥多仓🍭","sourceUrl":"https://gh-proxy.com/https://github.com/yangxiaoge/tvbox_cust/raw/refs/heads/master/tvbox/多仓.json"},
-{"sourceName":"💛游魂多仓🍭","sourceUrl":"https://www.iyouhun.com/tv/dc"},
-{"sourceName":"💛游魂多仓备用🍭","sourceUrl":"https://www.iyouhun.com/tv/yh"},
-{"sourceName":"💛Jsnzkpg多仓🍭","sourceUrl":"https://gh-proxy.com/https://github.com/Jsnzkpg/Jsnzkpg/blob/Jsnzkpg/stymei/tvbox"},
-{"sourceName":"💛小盒子多仓🍭","sourceUrl":"http://xhztv.top/dc/"},
-{"sourceName":"💛小盒子多仓备用🍭","sourceUrl":"http://xhztv.top/DC.txt"},
-{"sourceName":"💛拾光多仓🍭","sourceUrl":"http://xmbjm.fh4u.org/dc.txt"},
-{"sourceName":"💛奇奇接口🍭","sourceUrl":"http://z.qiqiv.cn/123 "},
-{"sourceName":"💛Dong-learn9🍭","sourceUrl":"https://gh-proxy.com/https://github.com/Dong-learn9/TVBox-zyjk/blob/main/tvbox.json "},
-{"sourceName":"🍈自用仓库","sourceUrl":"http://liucn.cc/box/dc.txt "},
-{"sourceName":"🍎欧歌仓库","sourceUrl":"https://xn--9ff9-rp5imh.v.nxog.top/nxog/oua.php?b=9f欧歌f9"},
-{"sourceName":"🥭木鱼仓库","sourceUrl":"https://d.kstore.dev/download/12020/ck.json"},
-{"sourceName":"🍍云星仓库","sourceUrl":"http://itvbox.cc/可视TV/云星日记/仓库/api.json"},
-{"sourceName":"🍉砂锅仓库","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/d.json"},
-{"sourceName":"🍐吾爱仓库","sourceUrl":"http://liucn.cc/box/d2.txt"},
-{"sourceName":"🍑天微仓库","sourceUrl":"http://liucn.cc/bs/d4.txt"},
-{"sourceName":"🍑wjbzy","sourceUrl":"https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/wjbzy.json"},
-{"sourceName":"🍑wjbzy2","sourceUrl":"https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/wjbzy2.json"},
-{"sourceName":"🍑wjbzy3","sourceUrl":"https://gh-proxy.com/https://github.com/wujb1976/zy/blob/main/wjbzy3.json"},
-{"sourceName":"💛xymn2023Guovin🍭","sourceUrl":"https://gh-proxy.com/https://github.com/xymn2023/iptv-api/blob/master/source.json "},
-{"sourceName":"💛loopool-xl🍭","sourceUrl":"https://gh-proxy.com/https://github.com/loopool/fan/blob/main/xl.json "},
-{"sourceName":"💛Tomorrow🍭","sourceUrl":"https://gh-proxy.com/https://github.com/tushen6/Tomorrow/blob/master/lmw.json "},
-{"sourceName":"💛haonanren118🍭","sourceUrl":"https://gh-proxy.com/https://github.com/haonanren118/tvbox-kstore/blob/main/download/1/tvbox/source.json "},
-{"sourceName":"💛EasyXC-dc🍭","sourceUrl":"https://gh-proxy.com/https://github.com/EasyXC/EasyTVbox/blob/main/easydc.jpg "},
-{"sourceName":"💛maoystv-dc🍭","sourceUrl":"https://gh-proxy.com/https://github.com/maoystv/6/blob/main/0.json "},
-
-{"sourceName":"🍑yangh909","sourceUrl":"https://gh-proxy.com/https://github.com/yangh909/tvbox/blob/main/dist/db.json"},
-{"sourceName":"💜wjb🍭26.06.30测试🍭","sourceUrl":"更新时间"}
+{"sourceName":"💚无邪优选仓🍭热门推荐🍭",
+"sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/main/yx.txt"}
 ]}
 
 
