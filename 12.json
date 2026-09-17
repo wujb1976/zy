@@ -1,4 +1,6 @@
-"lives":[
+{
+  "spider":"./jar/custom_spider.jar;md5;2608f471a7eeaf86e6e34a18e5576b2d",
+"lives":[  
 {"name":"聚合LIVE","type":0,"url":"https://gh-proxy.org/https://raw.githubusercontent.com/happybaihao/pan/main/live.txt","playerType":1,"epg":"https://1060s677v8.goho.co/epg.php","logo":"http://tvbox.top/tvbox/logo/{name}.png"},
 {"name":"一起看TV","type":0,"url":"http://tvbox6.com/tv.php?key=2785","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"http://tvbox.top/tvbox/logo/{name}.png"},
 {"name":"央卫直播","url":"http://xn--wnu643e.x10.mx/live.m3u","type":0,"playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -22,3 +24,16 @@
 {"name":"LIPV6","type":0,"url":"https://d.laigc.com/m3.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"FMM_IPV6","type":0,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
+ "parses": [
+    {
+      "name": "解析",
+      "type": 3,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "解析",
+      "type": 3,
+      "url": "http://api.aikantv.cc/?url="
+    }
+  ]
+}
