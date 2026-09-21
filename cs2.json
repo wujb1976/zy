@@ -241,15 +241,7 @@
      "type":3,
      "api":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
      "ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/金牌影视.js"},
-     {
-            "key": "蜻蜓FM",
-            "name": "蜻蜓 • FM",
-            "type": 3,
-            "api": "csp_QingtingFM",
-            "style": {
-                "type": "list"
-            }
-        },
+    {"name":"🎸蜻蜓电台","key":"QTfm","type":3,"api":"csp_QTfmAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"music","jar":"https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png"},
      
   {"key":"drpy_js_DJ音乐",
    "name":"音频┃DJ音乐[js]",
