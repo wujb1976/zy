@@ -3,10 +3,10 @@
 "sites": [
 {
     "key": "drpy_test",
-    "name": "360影视[JS]",
+    "name": "优酷[JS]",
     "type": 3,
     "api": "./lib/drpy2.min.js",
-    "ext": "./js/360影视.js"
+    "ext": "https://gh-proxy.org/https://github.com/wujb1976/Easy/blob/main/lib/优酷.js"
 }
  ],
   "lives": [    ],
