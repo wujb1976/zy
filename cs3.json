@@ -1,4 +1,6 @@
- "sites": [
+{
+  "spider":"./jar/custom_spider.jar;md5;2608f471a7eeaf86e6e34a18e5576b2d",
+"sites": [
 {
     "key": "drpy_test",
     "name": "360影视[JS]",
