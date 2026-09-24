@@ -8,4 +8,6 @@
     "api": "./lib/drpy2.min.js",
     "ext": "./js/360影视.js"
 }
- ]
+ ],
+  "lives": [    ],
+  
