@@ -1,7 +1,9 @@
+ "sites": [
 {
     "key": "drpy_test",
-    "name": "影视[JS]",
+    "name": "360影视[JS]",
     "type": 3,
     "api": "./lib/drpy2.min.js",
-    "ext": "./js/mysource.js"
+    "ext": "./js/360影视.js"
 }
+ ]
