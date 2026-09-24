@@ -10,4 +10,18 @@
 }
  ],
   "lives": [    ],
+   
+  "parses": [
+    {
+      "name": "解析",
+      "type": 3,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "解析",
+      "type": 3,
+      "url": "http://api.aikantv.cc/?url="
+    }
+  ]
+}
   
