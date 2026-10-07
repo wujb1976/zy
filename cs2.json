@@ -530,7 +530,12 @@
    "type": 3,
    "api": "./js/荐片.js"
   },
-   
+    {
+   "key": "ysp",
+   "name": "ysp[js]",
+   "type": 3,
+   "api": "./js/ysp.js"
+  },
  {"key":"drpy_js_奇珍异兽",
   "name":"奇珍异兽[js]",
   "type":3,
