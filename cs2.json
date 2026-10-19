@@ -589,12 +589,17 @@
       "type": 0,
       "url": "https://gh-proxy.org/https://github.com/wujb1976/zy/blob/main/hj.txt"
     },
-   
+    {
+      "key": "live",
+      "name": "soft261018",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://github.com/wujb1976/yingyue/blob/main/live/%E8%BD%AF%E4%BB%B620261018.txt"
+    },
   {
       "key": "live",
-      "name": "kulaoTV",
+      "name": "andxzb",
       "type": 0,
-      "url": "https://live.445569.xyz/live.m3u"
+      "url": "https://gh-proxy.org/https://github.com/wujb1976/yingyue/blob/main/live/andxzb.txt"
     },
    {"name":"简单","type":0,"url":"http://iptv.ruyitv.cc/m3u/tv.txt","ua": "okhttp/3.15","playerType":2},
     {
