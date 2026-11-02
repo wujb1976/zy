@@ -612,6 +612,13 @@
       "type": 0,
       "url": "https://gh-proxy.org/https://github.com/travellinfang/my-iptv/blob/main/output/live_available.txt"
     },
+   {
+      "key": "live",
+      "name": "kulaoTV",
+      "type": 0,
+      "url": "https://iptv.445569.xyz/live.m3u"
+    },
+
     {
       "key": "live",
       "name": "kakaxi-1",
