@@ -14,6 +14,10 @@
    "filterable":1,
    "changeable":1
     },
+   {"key":"独播影视",
+    "name":"🧿独播｜蓝光秒播",
+    "type":3,
+    "api":"csp_Duboku"},
     
     {
       "key": "热播APP",
