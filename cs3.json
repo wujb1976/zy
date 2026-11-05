@@ -1,5 +1,6 @@
 {
-  "spider": "https://easyzz.dpdns.org/jar/easy.jar",
+  #"spider": "https://easyzz.dpdns.org/jar/easy.jar",
+  "spider":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/custom_spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
 "sites": [
  {
       "key": "优酷视频",
