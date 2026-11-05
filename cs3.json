@@ -17,7 +17,15 @@
  "quickSearch": 0,
  "changeable": 0,
  "ext": {"json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"}
-}
+},
+   {"key": "aqy",
+ "name": "🎬-爱奇艺",
+ "type": 3,
+ "api": "https://iqiyizyapi.com/api.php/provide/vod",
+  "searchable": 1,
+ "quickSearch": 0,
+ "changeable": 0,
+ }
  ],
   "lives": [    ],
    
