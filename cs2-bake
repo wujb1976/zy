@@ -1,0 +1,686 @@
+
+{
+   "spider":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/custom_spider.jar;md5;eed040a6247f375adbff7ec181f8e0d6",
+  
+  "sites": [
+       
+    {
+      "key": "AV4K影视",
+      "name": "AV4K影视",
+      "type": 3,
+      "api": "./py/AV4K影视.py",
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
+    },
+    {
+      "key": "🎬红果｜短剧",
+      "name": "🎬红果｜短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/hgdj.py",
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
+    },
+    
+    {
+      "key": "世界听书",
+      "name": "世界听书",
+      "type": 3,
+      "api": "https://oss-v1.wangmeipo.cn/236/世界听书.py",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1     
+    },
+    {
+      "key": "热播APP",
+      "name": "热播APP",
+      "type": 3,
+      "api": "./FGBLH-PY/热播APP.py",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1     
+    },
+    {
+      "key": "DJ呦呦",
+      "name": "DJ呦呦",
+      "type": 3,
+      "api": "./FGBLH-PY/DJ呦呦.py",
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
+    },
+{
+      "key": "275听书",
+      "name": "275听书",
+      "type": 3,
+      "api": "./FGBLH-PY/275听书.py",
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
+    },
+{
+      "key": "千千音乐",
+      "name": "千千音乐",
+      "type": 3,
+      "api": "./FGBLH-PY/千千音乐🍀TG @hshsjk9.py",
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
+    },
+{
+      "key": "听书网",
+      "name": "听书网",
+      "type": 3,
+      "api": "./FGBLH-PY/听书网456🍀TG @hshsjk9.py",
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
+    },
+    
+    {
+      "key": "悦听吧",
+      "name": "悦听吧",
+      "type": 3,
+      "api": "./FGBLH-PY/悦听吧.py",
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
+    },
+    {
+      "key": "易听书网",
+      "name": "易听书网",
+      "type": 3,
+      "api": "./FGBLH-PY/易听书网🍀TG @hshsjk9.py",
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
+    },
+     {
+      "key": "瓜子app",
+      "name": "瓜子app",
+      "type": 3,
+      "api": "./FGBLH-PY/瓜子APP.py",
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
+    },
+     {
+      "key": "酷我音乐",
+      "name": "酷我音乐",
+       "type": 3,
+      "api": "./FGBLH-PY/酷我音乐.py",
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
+    },
+     {
+      "key": "音乐聚合",
+      "name": "音乐聚合",
+      "type": 3,
+      "api": "./FGBLH-PY/音乐聚合🍀TG @hshsjk9.py",
+      "searchable":1,
+   "filterable":1,
+   "changeable":1
+    },
+    {
+      "key": "爱听音乐",
+      "name": "爱听音乐",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/py/%E7%88%B1%E5%90%AC%E9%9F%B3%E4%B9%90.py",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":1
+    },
+     {
+      "key": "bfzy",
+      "name": "暴风",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+      "key": "ffzy",
+      "name": "非凡资源",
+      "type": 1,
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+   "key": "bisp",
+   "name": "哔哩视频",
+   "type": 3,
+   "api": "./py/哔哩视频.py",
+   "searchable": 0,
+   "filterable": 0,
+   "changeable": 0
+  },
+   
+    {
+      "key": "fyyy",
+      "name": "枫叶音乐",
+      "type": 3,
+      "api": "./py/枫叶音乐.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+ {
+  "key": "天天",
+  "name": "🧿┃天天┃秒播",
+  "type": 3,
+  "api": "csp_TTian",
+  "searchable": 1, 
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar":"https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E", 
+  "ext": "7lj763gg0939791h1l3888jig44gi291li"
+ },
+ 
+    {
+      "key": "blzb",
+      "name": "哔哩直播",
+      "type": 3,
+      "api": "./py/哔哩直播.py",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    
+   {
+     "key": "haohua",
+      "name": "豪华",
+      "type": 1,
+      "api": "https://www.haohuazy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },    
+    {
+      "key": "hongniu",
+      "name": "红牛",
+      "type": 1,
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "liangzi",
+      "name": "量子",
+      "type": 1,
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "yinghua",
+      "name": "樱花",
+      "type": 1,
+      "api": "https://api.apiyhzy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+      {
+            "key": "采集影视",
+            "name": "采集影视",
+            "type": 1,
+            "api": "https://dy.7772888.xyz/api.php/tvbox",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "dyttzy",
+            "name": "电影天堂",
+            "type": 1,
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+       {
+            "key": "1080资源",
+            "name": "1080资源",
+            "type": 1,
+            "api": "https://api.1080zyku.com/inc/api_mac10.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "360资源",
+            "name": "360资源",
+            "type": 1,
+            "api": "https://360zy.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "天涯资源",
+            "name": "天涯资源",
+            "type": 1,
+            "api": "https://tyyszy.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+      {
+            "key": "索尼-闪电资源",
+            "name": "闪电资源",
+            "type": 1,
+            "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨索尼资源",
+            "name": "索尼资源",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+      {
+            "key": "丨茅台资源",
+            "name": "茅台资源",
+            "type": 1,
+            "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨虎牙资源",
+            "name": "虎牙资源",
+            "type": 1,
+            "api": "https://www.huyaapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨豆瓣资源",
+            "name": "豆瓣资源",
+            "type": 1,
+            "api": "https://caiji.dbzy.tv/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨豆瓣资源2",
+            "name": "豆瓣资源2",
+            "type": 1,
+            "api": "https://dbzy.tv/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨豆瓣资源3",
+            "name": "豆瓣资源3",
+            "type": 1,
+            "api": "https://caiji.dbzy5.com/api.php/provide/vod/from/dbm3u8/at/josn",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+     {
+            "key": "丨CK资源",
+            "name": "CK资源",
+            "type": 1,
+            "api": "https://ckzy.me/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨U酷资源",
+            "name": "U酷资源",
+            "type": 1,
+            "api": "https://api.ukuapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨U酷资源2",
+            "name": "U酷资源2",
+            "type": 1,
+            "api": "https://api.ukuapi88.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨ikun资源",
+            "name": "ikun资源",
+            "type": 1,
+            "api": "https://ikunzyapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨wujinapi无尽",
+            "name": "wujinapi无尽",
+            "type": 1,
+            "api": "https://api.wujinapi.cc/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨丫丫点播",
+            "name": "丫丫点播",
+            "type": 1,
+            "api": "https://cj.yayazy.net/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨光速资源",
+            "name": "光速资源",
+            "type": 1,
+            "api": "https://api.guangsuapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨卧龙点播",
+            "name": "卧龙点播",
+            "type": 1,
+            "api": "https://collect.wolongzyw.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨卧龙资源",
+            "name": "卧龙资源",
+            "type": 1,
+            "api": "https://collect.wolongzy.cc/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨卧龙资源2",
+            "name": "卧龙资源2",
+            "type": 1,
+            "api": "https://wolongzyw.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨新浪点播",
+            "name": "新浪点播",
+            "type": 1,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨无尽资源",
+            "name": "无尽资源",
+            "type": 1,
+            "api": "https://api.wujinapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨无尽资源2",
+            "name": "无尽资源2",
+            "type": 1,
+            "api": "https://api.wujinapi.me/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨无尽资源3",
+            "name": "无尽资源3",
+            "type": 1,
+            "api": "https://api.wujinapi.net/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨旺旺短剧",
+            "name": "旺旺短剧",
+            "type": 1,
+            "api": "https://wwzy.tv/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨最大点播",
+            "name": "最大点播",
+            "type": 1,
+            "api": "http://zuidazy.me/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+        {
+            "key": "丨最大资源",
+            "name": "最大资源",
+            "type": 1,
+            "api": "https://api.zuidapi.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 10
+        },
+    {
+   "key": "荐片",
+   "name": "荐片[js]",
+   "type": 3,
+   "api": "./js/荐片.js"
+  },
+    {
+   "key": "ysp",
+   "name": "txt",
+   "type": 3,
+   "api": "./js/txt.js"
+  },
+ {"key":"drpy_js_奇珍异兽",
+  "name":"奇珍异兽[js]",
+  "type":3,
+  "api":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
+  "ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/奇珍异兽.js"},
+        {"key":"drpy_js_优酷",
+         "name":"优酷[js]",
+         "type":3,
+         "api":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
+         "ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/优酷.js"},
+        {"key":"drpy_js_腾云驾雾",
+         "name":"腾云驾雾[js]",
+         "type":3,
+         "api":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
+         "ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/腾云驾雾.js"},
+        {"key":"drpy_js_百忙无果",
+         "name":"百忙无果[js]",
+         "type":3,
+         "api":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
+         "ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/百忙无果.js"},
+    {"key":"drpy_js_金牌",
+     "name":"金牌影视[js]",
+     "type":3,
+     "api":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/libs/drpy2.min.js",
+     "ext":"https://gh-proxy.org/https://github.com/xyq254245/xyqonlinerule/blob/main/dr_py/js/金牌影视.js"},
+    {"name":"🎸蜻蜓电台","key":"QTfm","type":3,"api":"csp_QTfmAmns","searchable":1,"quickSearch":1,"changeable":0,"genre":"music","jar":"https://nos.netease.com/vcloud-statistic/nrtc/6c063da6-b726-44a0-bc01-9ec657b2d72c.png"},
+     
+  {"key":"drpy_js_DJ音乐",
+   "name":"音频┃DJ音乐[js]",
+   "type":3,
+   "api":"https://gh-proxy.org/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js",
+   "changeable":0,
+   "ext":"https://gh-proxy.org/https://github.com/wujb1976/qist/blob/master/js/DJ%E9%9F%B3%E4%B9%90.js"
+  },
+     {"key":"drpy_js_博看听书",
+   "name":"听书┃博看听书[js]",
+   "type":3,
+   "api":"https://gh-proxy.org/https://github.com/wujb1976/qist/blob/master/lib/drpy2.min.js",
+   "changeable":0,
+   "style":{"type":"rect","ratio":1},
+   "ext":"https://gh-proxy.org/https://github.com/wujb1976/qist/blob/master/js/%E5%8D%9A%E7%9C%8B%E5%90%AC%E4%B9%A6.js"
+  }
+    
+  ],
+
+
+"lives": [
+   {
+      "key": "live",
+      "name": "hj",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://github.com/wujb1976/zy/blob/main/hj.txt"
+    },
+    {
+      "key": "live",
+      "name": "soft261018",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://github.com/wujb1976/yingyue/blob/main/live/%E8%BD%AF%E4%BB%B620261018.txt"
+    },
+  {
+      "key": "live",
+      "name": "andxzb",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://github.com/wujb1976/yingyue/blob/main/live/andxzb.txt"
+    },
+   {"name":"简单","type":0,"url":"http://iptv.ruyitv.cc/m3u/tv.txt","ua": "okhttp/3.15","playerType":2},
+    {
+      "key": "live",
+      "name": "travellinfang",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://github.com/travellinfang/my-iptv/blob/main/output/live_available.txt"
+    },
+   {
+      "key": "live",
+      "name": "kulaoTV",
+      "type": 0,
+      "url": "https://iptv.445569.xyz/live.m3u"
+    },
+
+    {
+      "key": "live",
+      "name": "kakaxi-1",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://github.com/kakaxi-1/IPTV/blob/main/iptv.txt"
+    },
+    {
+      "key": "live",
+      "name": "ioptu-migu",
+      "type": 0,
+      "url": "https://gh-proxy.org/https://github.com/ioptu/migu_video/blob/main/migu.m3u"
+    },
+  {
+      "key": "live",
+      "name": "dongliTV接口内置",
+      "type": 0,
+      "url": "https://ds65.tv1288.xyz"
+    },
+   {
+      "key": "live",
+      "name": "wzg2内置源",
+      "type": 0,
+      "url": "https://tv6.tv1288.xyz"
+    },
+  {
+      "key": "live",
+      "name": "九月小小屋",
+      "type": 0,
+      "url": "https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u"
+    },
+  {
+      "key": "live",
+      "name": "小马接口内置",
+      "type": 0,
+      "url": "https://z.szyyds.cn/iptv"
+    }
+  ],
+  
+"parses": [
+    {
+      "name": "解析",
+      "type": 3,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "解析",
+      "type": 3,
+      "url": "http://api.aikantv.cc/?url="
+    }
+  ]
+}
