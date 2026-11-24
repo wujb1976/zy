@@ -141,15 +141,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-      "key": "ffzy",
-      "name": "非凡资源",
-      "type": 1,
-      "api": "https://cj.ffzyapi.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+
     {
    "key": "bisp",
    "name": "哔哩视频",
